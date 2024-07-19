@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/MCYVYNXKXj",
+      "domain": "https://musicium.aryanali3.repl.co/"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://musicium.aryanali3.repl.co/callback",
+        "clientID": "955008598126231612",
+        "secret": ""
+    }
+  }
